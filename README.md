@@ -15,7 +15,9 @@
 [<img src="https://assets.dio.me/xpg727feOCFHSMAL25KWbqwBMk3omWspkWlx3TqMbJU/f:webp/h:120/q:80/L3RyYWNrcy9jZmVjZGRiOC04ODljLTQwM2YtOGVkYi01NzcxYjk3ZTk4MmYucG5n" height="90"></a>](https://web.dio.me/track/formacao-gitlab-cicd)
 
 ## Cursos em Progresso
-[<img src="https://assets.dio.me/gt-tEnhv4_p33iwDXfI-zutfiEJ-q27qVfDCcnLV7I0/f:webp/h:120/q:80/L3RyYWNrcy9kYTA0M2M3YS03MTg5LTQ0MWUtYmYyOC1hZGMyZDA1YTQ5MzQucG5n" height="90"></a>](https://web.dio.me/track/formacao-css-web-developer)
+[<img src="https://hermes.dio.me/courses/badge/51380620-d09b-49cf-8720-dc45eae34486.png" height="90"></a>](https://www.udemy.com/course/csharp-completo-e-profissional/?couponCode=MTST7102224B2)
+[<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-download-in-png-blend-fbx-gltf-file-formats--mongodb-database-document-oriented-nosql-coding-lang-pack-logos-icons-7577996.png?f=webp" height="90"></a>](https://www.udemy.com/course/csharp-completo-e-profissional/?couponCode=MTST7102224B2)
+[<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png?f=webp" height="90"></a>](https://www.udemy.com/course/csharp-completo-e-profissional/?couponCode=MTST7102224B2)
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8efd4?style=for-the-badge&logo=linkedin&logoColor=783c00)](https://www.linkedin.com/in/suelenmedidnape/) 
